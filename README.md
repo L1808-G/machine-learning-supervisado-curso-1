@@ -25,3 +25,9 @@ Este repositorio contiene laboratorios prácticos desarrollados durante el Curso
 ## Enfoque
 Cada laboratorio está diseñado para reforzar la comprensión conceptual y práctica de los algoritmos, priorizando claridad, reproducibilidad y razonamiento detrás de cada modelo.
 
+## Cómo explorar este repositorio
+
+Cada notebook está numerado en orden de aprendizaje. 
+1. Comienza con los labs de regresión (semana 1 y 2).
+2. Luego revisa los notebooks de clasificación (semana 3). 
+3. Cada notebook contiene breves explicaciones y conclusiones al final.
